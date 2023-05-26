@@ -2,13 +2,13 @@
 阶段练习——纯html与css搭建的购物平台
 
 01
-品邮购项目介绍
+品优购项目介绍
 
 02
 代码规范
 
 03
-品邮购项目准备工作
+品优购项目准备工作
 引入初始化样式css和公共样式css，输入文本检测是否成功引入
 
 04
@@ -37,30 +37,30 @@ favicon图标制作
 10追加字体图标
  添加压缩包json、替换
 
-11品邮购首页shortcut（快捷导航）开始
+11品优购首页shortcut（快捷导航）开始
 
-12品邮购shortcut左侧制作
+12品优购shortcut左侧制作
 浮动栏，合理放置内容到盒子
 
-13品邮购shortcut右侧制作
+13品优购shortcut右侧制作
 竖线用盒子方块表示
 
-14品邮购shortcut三角做法
+14品优购shortcut三角做法
 icon，i标签
 移动文本位置：行高line-height
 限制作用范围：.fr .icomoon
 
-15品邮购首页header盒子
+15品优购首页header盒子
 用颜色区分操作范围，到时删除就行
 嵌套盒子省下margin，搭配PS确定px
 
-16品邮购首页logo盒子制作
+16品优购首页logo盒子制作
 position的搭配使用
 
-17品邮购首页logo优化（上）
+17品优购首页logo优化（上）
 background对img图像
 
-18品邮购首页logo优化（下）
+18品优购首页logo优化（下）
 隐藏文本：text-index坐标使得a链接文本超出框，加hidden隐藏或font-size：0
 首页唯一一处用到h1标签（logo优化）
 
